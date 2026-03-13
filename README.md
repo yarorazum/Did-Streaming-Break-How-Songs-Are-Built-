@@ -123,7 +123,7 @@ This project tests that question using a dataset of **1,048,575 Spotify tracks**
 ├── README.md                        # This file
 ├── research_findings.md             # Full research report (Introduction, Method, Results, Discussion)
 ├── final_analysis.ipynb             # Jupyter notebook with all runnable Python code
-├── final_presentation.key           # Keynote slide deck (26 slides, dark theme)
+├── final_presentation.pdf           # Slide deck (26 slides, dark theme)
 ├── spotify_data_edited.csv.gz       # Dataset (1M+ tracks, gzip compressed)
 └── figures/
     ├── phase1_initial_distributions.png
